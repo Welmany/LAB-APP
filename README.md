@@ -1,6 +1,5 @@
-# LAB-APP
-
 ## Siga os passos abaixo para executar o projeto:
+
 1º Baixe e instale o WampServer: Após a instalação, inicie os serviços do Apache e MySQL.
 Acesse o phpMyAdmin: Abra o navegador e acesse o phpMyAdmin (o endereço padrão é http://localhost/phpmyadmin). Crie um banco de dados chamado `lab_app2`.
 
